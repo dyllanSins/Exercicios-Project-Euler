@@ -5,7 +5,7 @@
 // Find the sum of all the multiples of 3 or 5 below 1000.
 // (translate)Encontre a soma de todos os múltiplos de 3 ou 5 abaixo de 1000.
 
-const limite = 10;
+const limite = 1000;
 const x = 3;
 const y = 5;
 let somaResto = 0;
